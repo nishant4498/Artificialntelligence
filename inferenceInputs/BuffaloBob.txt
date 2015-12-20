@@ -1,0 +1,9 @@
+4
+Faster(BOB,PAT)
+Buffalo(BOB)
+Pig(PAT)
+Faster(PAT,BOB)
+3
+Buffalo(BOB)
+Pig(PAT)
+Buffalo(x) ^ Pig(y) => Faster(x,y)

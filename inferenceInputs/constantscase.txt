@@ -1,0 +1,11 @@
+1
+B(Bob)
+7
+A(x,x,y,y,z,z) ^ C(x,y) ^ D(y,z)  => B(Bob)
+C(Suresh,Ramesh)
+C(Ramesh,Suresh)
+D(Suresh,Ramesh)
+D(Ramesh,Suresh)
+D(Ramesh,Kumar)
+C(Suresh,Ramesh) ^ D(Ramesh,Kumar) => A(Suresh,Suresh,Ramesh,Ramesh,Kumar,Kumar)
+

@@ -1,0 +1,9 @@
+1
+A(Bob)
+6
+C(x,y) => A(x)
+D(x,y) ^ B(y) => C(x,y)
+D(Bob,Jack)
+B(Alice)
+E(x) => B(x)
+E(Jack)

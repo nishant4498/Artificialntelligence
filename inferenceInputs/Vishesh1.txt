@@ -1,0 +1,10 @@
+1
+A(Bob,Jack)
+7
+D(x) ^ B(x,y) => A(w,p)
+C(z,y,w) => B(y,z)
+C(Bob,Jack,Bill)
+D(Bill)
+D(Johnny)
+D(Sam)
+D(Jack)

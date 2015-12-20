@@ -1,0 +1,10 @@
+1
+Uncle(John,Sarah)
+7
+Male(x) ^ Parent(m,z) ^ Sibling(x,m) => Uncle(x,z)
+Father(x,y) => Parent(x,y)
+Mother(x,y) => Parent(x,y)
+Parent(x,p) ^ Parent(x,w) => Sibling(p,w)
+Male(John)
+Mother(Neelu,Sarah)
+Father(Shawn,Neelu)

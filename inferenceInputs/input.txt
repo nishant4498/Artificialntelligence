@@ -1,0 +1,7 @@
+1
+F(Bob)
+4
+A(x,y) => F(a)
+D(e,f) ^ G(e,g) => A(f,g)
+D(Suresh,Ramesh)
+G(Naresh,Naresh) 
